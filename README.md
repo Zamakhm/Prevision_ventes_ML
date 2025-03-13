@@ -19,4 +19,4 @@ Ce projet vise à utiliser le Machine Learning pour analyser et prédire les ten
 ## 🚀 Comment exécuter le projet ?
 1. Cloner le repo :  
    ```bash
-   git clone https://github.com/TON_UTILISATEUR/TON_REPO.git
+   git clone https://github.com/Zamakhm/Prevision_ventes_ML.git
