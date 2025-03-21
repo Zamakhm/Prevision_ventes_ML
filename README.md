@@ -6,8 +6,7 @@ Modèle de Machine Learning pour prédire les ventes en fonction des tendances e
 Ce projet vise à utiliser le Machine Learning pour analyser et prédire les tendances de ventes à partir de données historiques.
 
 ## 📌 Objectifs
-- Étudier l'évolution des ve
-  ntes selon différents paramètres
+- Étudier l'évolution des ventes selon différents paramètres
 - Utiliser des modèles de régression pour la prédiction
 - Visualiser les résultats avec Matplotlib et Seaborn
 
